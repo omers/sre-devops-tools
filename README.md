@@ -7,7 +7,7 @@ Tools and useful sources for SRE and DevOps
 ## Monitoring Tools
 
 ## CI Tools
-
+* [How to deploy Jenkins behind Traefik load balancer](https://github.com/omers/sre-devops-tools/tree/master/ci/jenkins/jenkins-behind-traefik)
 ## Deployment tools
 
 ## Deployment Testing tools
