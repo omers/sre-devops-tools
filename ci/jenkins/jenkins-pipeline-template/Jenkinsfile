@@ -1,0 +1,22 @@
+pipeline {
+    agent any
+    stages {
+        stage("First") {
+            steps {
+                echo "First Step"
+            }
+        }
+        stage("Second") {
+            steps {
+                sh """
+                  echo "Running from slaves shell"
+                """
+            }
+        }
+    }
+    post {
+      always {
+        cleanWs()
+      }
+    }
+}
