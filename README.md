@@ -3,6 +3,7 @@ Tools and useful sources for SRE and DevOps
 
 ## Tools for Production testing
 * [Goreplay HTTP Traffic testing](https://github.com/buger/goreplay)
+* [Test Infra](https://github.com/philpep/testinfra)
 
 ## Monitoring Tools
 
