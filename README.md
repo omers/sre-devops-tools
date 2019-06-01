@@ -6,6 +6,7 @@ Tools and useful sources for SRE and DevOps
 * [Test Infra](https://github.com/philpep/testinfra)
 
 ## Monitoring Tools
+* [open-source AI solution for ICT and IoT automation](https://loudml.io/)
 
 ## CI Tools
 * [How to deploy Jenkins behind Traefik load balancer](https://github.com/omers/sre-devops-tools/tree/master/ci/jenkins/jenkins-behind-traefik)
